@@ -1,1 +1,1 @@
-goodbye conflicts
+hello conflicts
